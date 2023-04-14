@@ -1,6 +1,5 @@
 # Blender v3.5.0 OBJ File: 'LicensePlate.blend'
 # www.blender.org
-mtllib License_1b.mtl
 o license_1
 v -0.167624 5.776585 2.937387
 v -0.167624 5.923869 2.790103
@@ -116,7 +115,6 @@ vn 0.2930 0.1173 0.9489
 vn 0.2737 -0.0702 0.9592
 vn 0.2930 -0.1173 0.9489
 vn 0.3940 -0.3865 0.8339
-usemtl lp_california
 s 1
 f 1/1/1 2/2/1 3/3/1
 f 4/4/1 5/5/1 6/6/1
