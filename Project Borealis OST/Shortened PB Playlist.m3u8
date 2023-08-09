@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:237,557.7nm.mp3
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/Paul0Paulerlings/SF-E2-Shared/main/Project%20Borealis%20OST/557.7nm.mp3
+#EXTINF:254,Breach.mp3
+#EXTVLCOPT:network-caching=1000
+https://github.com/Paul0Paulerlings/SF-E2-Shared/raw/main/Project%20Borealis%20OST/Breach.mp3
+#EXTINF:549,Hallowed Ground.mp3
+#EXTVLCOPT:network-caching=1000
+https://github.com/Paul0Paulerlings/SF-E2-Shared/raw/main/Project%20Borealis%20OST/Hallowed%20Ground.mp3
+#EXTINF:309,Chaos Theory.mp3
+#EXTVLCOPT:network-caching=1000
+https://github.com/Paul0Paulerlings/SF-E2-Shared/raw/main/Project%20Borealis%20OST/Chaos%20Theory.mp3
